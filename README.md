@@ -14,6 +14,7 @@
 - https://k8s-docs.netlify.app/en/docs/reference/kubectl/cheatsheet/
 - https://github.com/cherkavi/cheat-sheet/blob/master/kubernetes-cheat-sheet.md
 - https://github.com/cherkavi/cheat-sheet/blob/master/openshift.md
+- OpenShift: https://openshift.tips/oc/#download-and-extract-oc-kubectl-and-openshift-install-one-liner
 
 ## Red Hat OpenShift Key Concepts
 
