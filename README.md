@@ -11,7 +11,9 @@
 ## Usefull links
 
 - Red Hat: https://rha.ole.redhat.com/rha/app/summary
-
+- https://k8s-docs.netlify.app/en/docs/reference/kubectl/cheatsheet/
+- https://github.com/cherkavi/cheat-sheet/blob/master/kubernetes-cheat-sheet.md
+- https://github.com/cherkavi/cheat-sheet/blob/master/openshift.md
 
 ## Red Hat OpenShift Key Concepts
 
